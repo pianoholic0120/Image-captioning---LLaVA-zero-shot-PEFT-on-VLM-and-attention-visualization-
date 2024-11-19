@@ -1,0 +1,12 @@
+{
+    "top1": {
+        "image": "top1_image.jpg",
+        "caption": "A red fire hydrant in front of a house.",
+        "clipscore": 0.9669598191976547
+    },
+    "last1": {
+        "image": "last1_image.jpg",
+        "caption": "A large white and blue bus on a street.",
+        "clipscore": 0.30588895082473755
+    }
+}
